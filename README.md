@@ -1,28 +1,34 @@
-# 📊 Análisis de Datos de Ventas Amazon
+# 📊 Amazon Sales Data Analysis
 
-### Descripción
-Este proyecto se enfoca en el análisis de un conjunto de datos de dominio público sobre ventas en Amazon, obtenido de la plataforma Kaggle. El objetivo principal es extraer, limpiar y visualizar información clave para entender patrones y métricas de rendimiento en ventas.
+### Description
+
+This project focuses on analyzing a public domain dataset about Amazon sales, obtained from the Kaggle platform. The main goal is to extract, clean, and visualize key information to understand sales performance patterns and metrics.
 
 ---
 
-### 🚀 Visualización del Proyecto
-**[Ver Proyecto Completo en Power BI](ENLACE_A_POWER_BI)**
+### 🚀 Project Visualization
 
-> Haz clic en el enlace para acceder a la visualización interactiva en Power BI, donde podrás explorar los KPIs y obtener una visión más detallada de los datos.
+**[View Full Project in Power BI](LINK_TO_POWER_BI)**
+
+> Click the link to access the interactive Power BI dashboard, where you can explore KPIs and gain deeper insights into the data.
 
 ---
 
 ### 🗂 Dataset
-- **Fuente**: [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
-- **Descripción**: Dataset de ventas en Amazon, incluye información sobre productos, categorías, precios, etc.
+
+* **Source**: [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
+* **Description**: Amazon sales dataset, including information about products, categories, prices, and more.
 
 ---
 
-### ⚙️ Tecnologías Utilizadas
-- **SQL Server**: Utilizado para la importación, exploración y limpieza de datos.
-- **Power BI**: Para la creación de visualizaciones interactivas de los resultados y KPIs clave del análisis.
+### ⚙️ Technologies Used
+
+* **SQL Server**: Used for data import, exploration, and cleaning.
+* **Power BI**: Used to create interactive visualizations and key KPIs from the analysis.
 
 ---
 
-### 📈 Resultados
-En este análisis, generé diversos KPIs y visualizaciones que destacan:
+### 📈 Results
+
+In this analysis, I generated several KPIs and visualizations that highlight:
+
