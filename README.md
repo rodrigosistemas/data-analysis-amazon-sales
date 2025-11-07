@@ -14,13 +14,6 @@ This project focuses on analyzing a public domain dataset about Amazon sales, ob
 
 ---
 
-### 🗂 Dataset
-
-* **Source**: [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
-* **Description**: Amazon sales dataset, including information about products, categories, prices, and more.
-
----
-
 ### ⚙️ Technologies Used
 
 * **SQL Server**: Used for data import, exploration, and cleaning.
@@ -31,4 +24,11 @@ This project focuses on analyzing a public domain dataset about Amazon sales, ob
 ### 📈 Results
 
 In this analysis, I generated several KPIs and visualizations that highlight:
+
+---
+
+### 🗂 Dataset
+
+* **Source**: [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/amazon-sales-dataset)
+* **Description**: Amazon sales dataset, including information about products, categories, prices, and more.
 
